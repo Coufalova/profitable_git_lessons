@@ -1,0 +1,13 @@
+# git init(to initi alise a repository)		
+#    git status
+# git ADD . 
+# git commit -m "Add index.html as initial commit."
+# git checkout (unique commit id)
+# git log (hit 'q' to exit)
+# git checkout master (takes you to the last committed branch)	
+		
+Git remote commands...
+# git remote add origin (url)
+# git remote -v
+# git push origin master
+# git push origin master
